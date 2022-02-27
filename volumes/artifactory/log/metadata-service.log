@@ -1,0 +1,117 @@
+2022-02-23T19:38:27.011Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 5 seconds with 2m0s timeout [init]
+2022-02-23T19:38:32.032Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 10 seconds with 2m0s timeout [init]
+2022-02-23T19:38:37.045Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 15 seconds with 2m0s timeout [init]
+2022-02-23T19:38:42.062Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 20 seconds with 2m0s timeout [init]
+2022-02-23T19:38:47.065Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 25 seconds with 2m0s timeout [init]
+2022-02-23T19:38:52.129Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 30 seconds with 2m0s timeout [init]
+2022-02-23T19:38:57.159Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 35 seconds with 2m0s timeout [init]
+2022-02-23T19:39:02.184Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 40 seconds with 2m0s timeout [init]
+2022-02-23T19:39:07.186Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 45 seconds with 2m0s timeout [init]
+2022-02-23T19:39:12.212Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 50 seconds with 2m0s timeout [init]
+2022-02-23T19:39:17.215Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 55 seconds with 2m0s timeout [init]
+2022-02-23T19:39:22.243Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 60 seconds with 2m0s timeout [init]
+2022-02-23T19:39:27.248Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 65 seconds with 2m0s timeout [init]
+2022-02-23T19:39:32.252Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 70 seconds with 2m0s timeout [init]
+2022-02-23T19:39:37.258Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 75 seconds with 2m0s timeout [init]
+2022-02-23T19:39:42.266Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 80 seconds with 2m0s timeout [init]
+2022-02-23T19:39:47.269Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:177          ] [main                ] - Cluster join: Join key is missing. Pending for 85 seconds with 2m0s timeout [init]
+2022-02-23T19:39:52.275Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:177          ] [main                ] - Cluster join: Join key is missing. Pending for 90 seconds with 2m0s timeout [init]
+2022-02-23T19:39:57.286Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:177          ] [main                ] - Cluster join: Join key is missing. Pending for 95 seconds with 2m0s timeout [init]
+2022-02-23T19:40:02.291Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:177          ] [main                ] - Cluster join: Join key is missing. Pending for 100 seconds with 2m0s timeout [init]
+2022-02-23T19:40:07.304Z [jfmd ] [INFO ] [18e21a3d67aabf70] [security_keys.go:177          ] [main                ] - Cluster join: Join key is missing. Pending for 105 seconds with 2m0s timeout [init]
+2022-02-23T19:40:08.309Z [jfmd ] [INFO ] [18e21a3d67aabf70] [database_bearer.go:126        ] [main                ] - Connecting to (db config: {sqlite /opt/jfrog/artifactory/var/data/metadata/sqlite.db?_fk=yes&_busy_timeout=5000&_txlock=immediate&cache=shared}) [database]
+2022-02-23T19:40:08.397Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:62                ] [main                ] - Applying 47 migrations files [database]
+2022-02-23T19:40:08.427Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v001_packages.sql successfully applied (4 statements) [database]
+2022-02-23T19:40:08.469Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v002_versions.sql successfully applied (5 statements) [database]
+2022-02-23T19:40:08.488Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v003_package_qualifiers.sql successfully applied (2 statements) [database]
+2022-02-23T19:40:08.499Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v004_package_user_properties.sql successfully applied (3 statements) [database]
+2022-02-23T19:40:08.533Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v005_package_tags.sql successfully applied (2 statements) [database]
+2022-02-23T19:40:08.557Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v006_package_stats.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:08.597Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v007_sources.sql successfully applied (2 statements) [database]
+2022-02-23T19:40:08.612Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v008_package_info_sources.sql successfully applied (3 statements) [database]
+2022-02-23T19:40:08.621Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v009_servers.sql successfully applied (2 statements) [database]
+2022-02-23T19:40:08.656Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v010_version_qualifiers.sql successfully applied (3 statements) [database]
+2022-02-23T19:40:08.666Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v011_version_user_properties.sql successfully applied (3 statements) [database]
+2022-02-23T19:40:08.688Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v012_version_tags.sql successfully applied (3 statements) [database]
+2022-02-23T19:40:08.715Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v013_version_stats.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:08.726Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v014_licenses.sql successfully applied (2 statements) [database]
+2022-02-23T19:40:08.742Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v015_files.sql successfully applied (5 statements) [database]
+2022-02-23T19:40:08.775Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v016_file_qualifiers.sql successfully applied (3 statements) [database]
+2022-02-23T19:40:08.790Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v017_package_licenses.sql successfully applied (3 statements) [database]
+2022-02-23T19:40:08.806Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v018_version_licenses.sql successfully applied (3 statements) [database]
+2022-02-23T19:40:08.830Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v019_files_versions.sql successfully applied (3 statements) [database]
+2022-02-23T19:40:08.849Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v020_repo.sql successfully applied (2 statements) [database]
+2022-02-23T19:40:08.883Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v021_lead_paths.sql successfully applied (4 statements) [database]
+2022-02-23T19:40:08.904Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v022_package_descriptions.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:08.945Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v023_contributors.sql successfully applied (2 statements) [database]
+2022-02-23T19:40:08.966Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v024_version_contributors.sql successfully applied (3 statements) [database]
+2022-02-23T19:40:08.978Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v025_sharedconfigs.sql successfully applied (2 statements) [database]
+2022-02-23T19:40:09.004Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v026_version_vulns.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.024Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v027_package_vulns.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.041Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v028_versions_ordinal_index.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.051Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v029_qualifier_user_prop_length.sql successfully applied (0 statements) [database]
+2022-02-23T19:40:09.086Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v030_version_addcolumn_size.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.113Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v031_package_add_base_model_complete.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.185Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v032_rename_stats_columns.sql successfully applied (3 statements) [database]
+2022-02-23T19:40:09.232Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v033_rename_size_column.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.360Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v034_ver_stats_fk_ver_repos_fk.sql successfully applied (11 statements) [database]
+2022-02-23T19:40:09.373Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v035_files_unique_name_sha256.sql successfully applied (4 statements) [database]
+2022-02-23T19:40:09.396Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v036_version_add_modified.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.427Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v037_version_add_base_model_complete.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.438Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v038_file_targets.sql successfully applied (2 statements) [database]
+2022-02-23T19:40:09.474Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v039_file_targets_fk.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.488Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v042_async_data_converter.sql successfully applied (5 statements) [database]
+2022-02-23T19:40:09.513Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v043_add_mark_for_deletion.sql successfully applied (3 statements) [database]
+2022-02-23T19:40:09.537Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v044_add_dependant_task.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.565Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v045_delete_reorder_prerelease_version_task.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.612Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v046_add_cvss3.sql successfully applied (2 statements) [database]
+2022-02-23T19:40:09.625Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v047_reorder_task_temp_table.sql successfully applied (2 statements) [database]
+2022-02-23T19:40:09.637Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v048_version_operational_risk.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.670Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:222               ] [main                ] - Migration v049_package_operational_risk.sql successfully applied (1 statements) [database]
+2022-02-23T19:40:09.680Z [jfmd ] [INFO ] [18e21a3d67aabf70] [migrator.go:71                ] [main                ] - Applied 112 database migrations statements in 1.276188001s seconds [database]
+2022-02-23T19:40:09.682Z [jfmd ] [INFO ] [18e21a3d67aabf70] [application.go:70             ] [main                ] - Metadata (jfmd) service initialization started. Version: 7.32.2 Revision: 30775cbe723 PID: 3834 Home: /opt/jfrog/artifactory/var [app_initializer]
+2022-02-23T19:40:09.692Z [jfmd ] [INFO ] [18e21a3d67aabf70] [server_bearer.go:178          ] [main                ] - Created service_id and pushed to store: jfmd@01fwm1j82krga62g58qjk879wz [ServerInit]
+2022-02-23T19:40:13.753Z [jfmd ] [INFO ] [18e21a3d67aabf70] [accessclient.go:62            ] [main                ] - Cluster join: Retry 5: Service registry ping failed, will retry. Error: Error while trying to connect to local router at address 'http://localhost:8046/access': Get "http://localhost:8046/access/api/v1/system/ping": dial tcp 127.0.0.1:8046: connect: connection refused [access_client]
+2022-02-23T19:40:18.852Z [jfmd ] [INFO ] [18e21a3d67aabf70] [accessclient.go:62            ] [main                ] - Cluster join: Retry 10: Service registry ping failed, will retry. Error: Error while trying to connect to local router at address 'http://localhost:8046/access': Get "http://localhost:8046/access/api/v1/system/ping": dial tcp 127.0.0.1:8046: connect: connection refused [access_client]
+2022-02-23T19:40:23.865Z [jfmd ] [INFO ] [18e21a3d67aabf70] [accessclient.go:62            ] [main                ] - Cluster join: Retry 15: Service registry ping failed, will retry. Error: Error while trying to connect to local router at address 'http://localhost:8046/access': Get "http://localhost:8046/access/api/v1/system/ping": dial tcp 127.0.0.1:8046: connect: connection refused [access_client]
+2022-02-23T19:40:28.908Z [jfmd ] [INFO ] [18e21a3d67aabf70] [accessclient.go:62            ] [main                ] - Cluster join: Retry 20: Service registry ping failed, will retry. Error: Error while trying to connect to local router at address 'http://localhost:8046/access': Get "http://localhost:8046/access/api/v1/system/ping": dial tcp 127.0.0.1:8046: connect: connection refused [access_client]
+2022-02-23T19:40:33.944Z [jfmd ] [INFO ] [18e21a3d67aabf70] [accessclient.go:62            ] [main                ] - Cluster join: Retry 25: Service registry ping failed, will retry. Error: Error while trying to connect to local router at address 'http://localhost:8046/access': Failed to access :http://localhost:8046/access/api/v1/system/ping return status code : 404 [access_client]
+2022-02-23T19:40:38.966Z [jfmd ] [INFO ] [18e21a3d67aabf70] [accessclient.go:62            ] [main                ] - Cluster join: Retry 30: Service registry ping failed, will retry. Error: Error while trying to connect to local router at address 'http://localhost:8046/access': Failed to access :http://localhost:8046/access/api/v1/system/ping return status code : 404 [access_client]
+2022-02-23T19:40:40.592Z [jfmd ] [INFO ] [18e21a3d67aabf70] [accessclient.go:62            ] [main                ] - Cluster join: Successfully joined the cluster [access_client]
+2022-02-23T19:40:40.593Z [jfmd ] [INFO ] [18e21a3d67aabf70] [accessclient.go:62            ] [main                ] - Cluster join: executing Router register at: localhost:8046 for service id jfmd@01fwm1j82krga62g58qjk879wz [access_client]
+2022-02-23T19:40:40.905Z [jfmd ] [INFO ] [18e21a3d67aabf70] [async_converter.go:196        ] [main                ] - Starting async converter routine [async_converter] [workerNumber][1]
+2022-02-23T19:40:40.910Z [jfmd ] [INFO ] [18e21a3d67aabf70] [router_middlewares.go:56      ] [main                ] - 
+Metadata Info
+========================
+
+Logging.Application.Rotation.MaxSizeMb               | 25
+Logging.Application.Rotation.IntervalSeconds         | 0
+Logging.Request.Rotation.MaxSizeMb                   | 25
+Logging.Request.Rotation.MaxFiles                    | 10
+Database.Type                                        | 1
+Shared.NewRelic.EnableDebugLog                       | false
+Logging.Application.FilePath                         | metadata-service.log
+Logging.Application.Rotation.MaxFiles                | 10
+Logging.Application.Rotation.MaxAgeDays              | 365
+Logging.Request.FilePath                             | metadata-request.log
+Logging.Request.Rotation.Compress                    | true
+Shared.NewRelic.DistributedTracerEnabled             | true
+Shared.NewRelic.AppName                              | 
+Logging.Application.Level                            | info
+Logging.Request.Rotation.MaxAgeDays                  | 365
+Logging.Request.Rotation.IntervalSeconds             | 0
+AccessClient.Url                                     | http://localhost:8081/access
+AccessClient.JoinTimeout                             | 3m0s
+Keys.ReadAttempts                                    | 120
+Profiling.Enabled                                    | false
+Keys.ReadIntervalDuration                            | 1s
+Shared.NewRelic.Enabled                              | false
+Logging.Application.Rotation.Compress                | true
+Port                                                 | 8086
+
+2022-02-23T19:40:40.912Z [jfmd ] [INFO ] [18e21a3d67aabf70] [router_middlewares.go:57      ] [main                ] - Metadata (jfmd) service initialization completed in 31.228 seconds. Listening on port: 8086 [router]
+2022-02-23T19:40:43.042Z [jfmd ] [INFO ] [18e21a3d67aabf70] [ver_repos_lead_file_path_index] [main                ] - Running DB index [md_ver_repos_lead_file_pth_idx] maintenance in the background, it might cause some slowness in the Metadata service [BatchEndKey][1] [BatchKey][verReposLeadFilePathIndexIndexTask] [BatchStartKey][0] [ver_repos_lead_file_path_index_task] [workerNumber][1]
+2022-02-23T19:40:43.044Z [jfmd ] [INFO ] [18e21a3d67aabf70] [ver_repos_lead_file_path_index] [main                ] - Finished with DB index [md_ver_repos_lead_file_pth_idx] background maintenance, Metadata service is back to normal [BatchEndKey][1] [BatchKey][verReposLeadFilePathIndexIndexTask] [BatchStartKey][0] [ver_repos_lead_file_path_index_task] [workerNumber][1]
+2022-02-23T19:40:45.057Z [jfmd ] [INFO ] [18e21a3d67aabf70] [value_columns_to_nullable_task] [main                ] - DB Type sqlite doesn't require valueColumnsToNullableTask migration [BatchEndKey][1] [BatchKey][valueColumnsToNullableTask] [BatchStartKey][0] [value_columns_to_nullable] [workerNumber][1]
+2022-02-23T19:40:47.066Z [jfmd ] [INFO ] [18e21a3d67aabf70] [versions_package_id_ordinal_in] [main                ] - Running DB indexes [md_version_pkgid_ordinal_idx,md_versions_package_id_idx,md_versions_ordinal_idx] maintenance in the background, it might cause some slowness in the Metadata service [BatchEndKey][1] [BatchKey][versionsPackageIdOrdinalIndexTask] [BatchStartKey][0] [versions_package_id_ordinal_index_task] [workerNumber][1]
+2022-02-23T19:40:47.069Z [jfmd ] [INFO ] [18e21a3d67aabf70] [versions_package_id_ordinal_in] [main                ] - Finished with DB indexes [[md_version_pkgid_ordinal_idx md_versions_package_id_idx md_versions_ordinal_idx]] background maintenance, Metadata service is back to normal [BatchEndKey][1] [BatchKey][versionsPackageIdOrdinalIndexTask] [BatchStartKey][0] [versions_package_id_ordinal_index_task] [workerNumber][1]

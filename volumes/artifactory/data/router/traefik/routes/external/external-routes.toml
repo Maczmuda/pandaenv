@@ -1,0 +1,564 @@
+[frontends]
+
+  
+  
+  
+      [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-0-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf"
+        priority = 2023
+        [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-0-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.routes.match]
+          rule = "Path: /{part0:com\\.jfrog\\.access\\..*}"
+        [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-0-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-0-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-0-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf"
+        priority = 2023
+        [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-0-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.routes.match]
+          rule = "Path: /{part0:com\\.jfrog\\.access\\..*}"
+        [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-0-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-0-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+  
+      [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-1-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf"
+        priority = 2009
+        [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-1-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.routes.match]
+          rule = "Path: /{part0:access}/{part1:.*}"
+        [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-1-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-1-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-1-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf"
+        priority = 2009
+        [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-1-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.routes.match]
+          rule = "Path: /{part0:access}/{part1:.*}"
+        [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-1-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfac_01fwm1hcyv61kx19fmv6g21ggp-1-jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+
+  
+  
+  
+      [frontends.jffe_000-0-jffe_000-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jffe_000-8530331d6faf"
+        priority = 2001
+        [frontends.jffe_000-0-jffe_000-8530331d6faf-internal.routes.match]
+          rule = "Path: /"
+        [frontends.jffe_000-0-jffe_000-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jffe_000-0-jffe_000-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jffe_000-0-jffe_000-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jffe_000-8530331d6faf"
+        priority = 2001
+        [frontends.jffe_000-0-jffe_000-8530331d6faf-external.routes.match]
+          rule = "Path: /"
+        [frontends.jffe_000-0-jffe_000-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jffe_000-0-jffe_000-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+  
+      [frontends.jffe_000-1-jffe_000-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jffe_000-8530331d6faf"
+        priority = 2003
+        [frontends.jffe_000-1-jffe_000-8530331d6faf-internal.routes.match]
+          rule = "Path: /{part0:ui}"
+        [frontends.jffe_000-1-jffe_000-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jffe_000-1-jffe_000-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jffe_000-1-jffe_000-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jffe_000-8530331d6faf"
+        priority = 2003
+        [frontends.jffe_000-1-jffe_000-8530331d6faf-external.routes.match]
+          rule = "Path: /{part0:ui}"
+        [frontends.jffe_000-1-jffe_000-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jffe_000-1-jffe_000-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+  
+      [frontends.jffe_000-2-jffe_000-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jffe_000-8530331d6faf"
+        priority = 2008
+        [frontends.jffe_000-2-jffe_000-8530331d6faf-internal.routes.match]
+          rule = "Path: /{part0:ui}/{part1:(.*)}"
+        [frontends.jffe_000-2-jffe_000-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jffe_000-2-jffe_000-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jffe_000-2-jffe_000-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jffe_000-8530331d6faf"
+        priority = 2008
+        [frontends.jffe_000-2-jffe_000-8530331d6faf-external.routes.match]
+          rule = "Path: /{part0:ui}/{part1:(.*)}"
+        [frontends.jffe_000-2-jffe_000-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jffe_000-2-jffe_000-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+
+  
+  
+  
+      [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-0-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf"
+        priority = 2028
+        [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-0-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.routes.match]
+          rule = "Path: /{part0:com\\.jfrog\\.integration\\..*}"
+        [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-0-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-0-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-0-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf"
+        priority = 2028
+        [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-0-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.routes.match]
+          rule = "Path: /{part0:com\\.jfrog\\.integration\\..*}"
+        [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-0-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-0-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+  
+      [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-1-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf"
+        priority = 2017
+        [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-1-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.routes.match]
+          rule = "Path: /{part0:integration}/{part1:(.*)}"
+        [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-1-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-1-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-1-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf"
+        priority = 2017
+        [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-1-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.routes.match]
+          rule = "Path: /{part0:integration}/{part1:(.*)}"
+        [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-1-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-1-jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+
+  
+  
+  
+      [frontends.jfmd_01fwm1j82krga62g58qjk879wz-0-jfmd_01fwm1j82krga62g58qjk879wz-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jfmd_01fwm1j82krga62g58qjk879wz-8530331d6faf"
+        priority = 2014
+        [frontends.jfmd_01fwm1j82krga62g58qjk879wz-0-jfmd_01fwm1j82krga62g58qjk879wz-8530331d6faf-internal.routes.match]
+          rule = "Path: /{part0:metadata}/{part1:(.*)}"
+        [frontends.jfmd_01fwm1j82krga62g58qjk879wz-0-jfmd_01fwm1j82krga62g58qjk879wz-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfmd_01fwm1j82krga62g58qjk879wz-0-jfmd_01fwm1j82krga62g58qjk879wz-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jfmd_01fwm1j82krga62g58qjk879wz-0-jfmd_01fwm1j82krga62g58qjk879wz-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jfmd_01fwm1j82krga62g58qjk879wz-8530331d6faf"
+        priority = 2014
+        [frontends.jfmd_01fwm1j82krga62g58qjk879wz-0-jfmd_01fwm1j82krga62g58qjk879wz-8530331d6faf-external.routes.match]
+          rule = "Path: /{part0:metadata}/{part1:(.*)}"
+        [frontends.jfmd_01fwm1j82krga62g58qjk879wz-0-jfmd_01fwm1j82krga62g58qjk879wz-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfmd_01fwm1j82krga62g58qjk879wz-0-jfmd_01fwm1j82krga62g58qjk879wz-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+
+  
+  
+  
+      [frontends.jfob_01fwm1hcyv61kx19fmv6g21ggp-0-jfob_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jfob_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf"
+        priority = 2019
+        [frontends.jfob_01fwm1hcyv61kx19fmv6g21ggp-0-jfob_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.routes.match]
+          rule = "Path: /{part0:observability}/{part1:(.*)}"
+        [frontends.jfob_01fwm1hcyv61kx19fmv6g21ggp-0-jfob_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfob_01fwm1hcyv61kx19fmv6g21ggp-0-jfob_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jfob_01fwm1hcyv61kx19fmv6g21ggp-0-jfob_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jfob_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf"
+        priority = 2019
+        [frontends.jfob_01fwm1hcyv61kx19fmv6g21ggp-0-jfob_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.routes.match]
+          rule = "Path: /{part0:observability}/{part1:(.*)}"
+        [frontends.jfob_01fwm1hcyv61kx19fmv6g21ggp-0-jfob_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfob_01fwm1hcyv61kx19fmv6g21ggp-0-jfob_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+
+  
+  
+  
+      [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-0-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf"
+        priority = 2027
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-0-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal.routes.match]
+          rule = "Path: /{part0:.well-known}/{part1:terraform.json}"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-0-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-0-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-0-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf"
+        priority = 2027
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-0-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external.routes.match]
+          rule = "Path: /{part0:.well-known}/{part1:terraform.json}"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-0-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-0-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+  
+      [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-1-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf"
+        priority = 2012
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-1-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal.routes.match]
+          rule = "Path: /{part0:artifactory}"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-1-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-1-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-1-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf"
+        priority = 2012
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-1-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external.routes.match]
+          rule = "Path: /{part0:artifactory}"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-1-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-1-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+  
+      [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-2-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf"
+        priority = 2017
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-2-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal.routes.match]
+          rule = "Path: /{part0:artifactory}/{part1:(.*)}"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-2-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-2-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-2-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf"
+        priority = 2017
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-2-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external.routes.match]
+          rule = "Path: /{part0:artifactory}/{part1:(.*)}"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-2-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-2-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+  
+      [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-3-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal]
+        entryPoints = ["internal"]
+        backend = "jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf"
+        priority = 2008
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-3-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal.routes.match]
+          rule = "Path: /{part0:v2}/{part1:(.*)}"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-3-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-3-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-internal.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+      [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-3-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external]
+        entryPoints = ["external"]
+        backend = "jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf"
+        priority = 2008
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-3-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external.routes.match]
+          rule = "Path: /{part0:v2}/{part1:(.*)}"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-3-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external.routes.route_to]
+          rule = "Headers: X-JFrog-Route-To,8530331d6faf"
+        [frontends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-3-jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf-external.headers.customrequestheaders]
+          X-JFrog-Route-To = ""
+      
+    
+
+    
+
+  
+  
+  
+
+
+[backends]
+
+  
+    
+    
+  
+    
+    
+  
+    [backends.jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf]
+      [backends.jfac_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf.servers.server]
+          url = "http://192.168.224.2:8082"
+          weight = 1
+  
+
+
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    [backends.jffe_000-8530331d6faf]
+      [backends.jffe_000-8530331d6faf.servers.server]
+          url = "http://192.168.224.2:8082"
+          weight = 1
+  
+
+
+  
+    
+    
+  
+    
+    
+  
+    [backends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf]
+      [backends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf.servers.server]
+          url = "http://192.168.224.2:8082"
+          weight = 1
+  
+
+
+  
+    
+    
+  
+    [backends.jfmd_01fwm1j82krga62g58qjk879wz-8530331d6faf]
+      [backends.jfmd_01fwm1j82krga62g58qjk879wz-8530331d6faf.servers.server]
+          url = "http://192.168.224.2:8082"
+          weight = 1
+  
+
+
+  
+    
+    
+  
+    [backends.jfob_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf]
+      [backends.jfob_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf.servers.server]
+          url = "http://192.168.224.2:8082"
+          weight = 1
+  
+
+
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    
+    
+  
+    [backends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf]
+      [backends.jfrt_01fwm1kgk0pa1p0bc1946n1jd3-8530331d6faf.servers.server]
+          url = "http://192.168.224.2:8082"
+          weight = 1
+  
+

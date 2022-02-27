@@ -1,0 +1,13 @@
+---
+federation:
+  inbound:
+    service-id-mapping:
+    - from: "jfrou@*"
+      to: "jfrou@01fwm1j66h2wt0tkvwegmn28hg"
+    - from: "jfmd@*"
+      to: "jfmd@01fwm1j82krga62g58qjk879wz"
+    - from: "jfob@*"
+      to: "jfob@01fwm1hcyv61kx19fmv6g21ggp"
+    - from: "jfint@*"
+      to: "jfint@01fwm1hcyv61kx19fmv6g21ggp"
+schema-version: 2

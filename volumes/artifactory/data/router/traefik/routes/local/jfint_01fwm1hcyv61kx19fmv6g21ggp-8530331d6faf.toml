@@ -1,0 +1,54 @@
+# This template is used to create routing rules for Traefik
+# References: https://docs.traefik.io/configuration/backends/file/
+#             https://docs.traefik.io/basics/#frontends
+#             https://docs.traefik.io/basics/#backends
+
+[frontends]
+
+
+
+  [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-0-rule0-internal]
+    entryPoints = ["internal"]
+    backend = "jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-0"
+
+    [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-0-rule0-internal.routes.match]
+      rule = "PathPrefixStrip: /integration/"
+
+
+  [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-0-rule0-external]
+    entryPoints = ["external"]
+    backend = "jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-0"
+
+    [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-0-rule0-external.routes.match]
+      rule = "PathPrefixStrip: /integration/"
+
+
+
+
+  [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-1-rule0-internal]
+    entryPoints = ["internal"]
+    backend = "jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-1"
+
+    [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-1-rule0-internal.routes.match]
+      rule = "PathPrefix: /com.jfrog.integration."
+
+
+  [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-1-rule0-external]
+    entryPoints = ["external"]
+    backend = "jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-1"
+
+    [frontends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-1-rule0-external.routes.match]
+      rule = "PathPrefix: /com.jfrog.integration."
+
+
+
+[backends]
+
+  [backends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-0]
+    [backends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-0.servers.server1]
+      url = "http://localhost:8071"
+
+  [backends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-1]
+    [backends.jfint_01fwm1hcyv61kx19fmv6g21ggp-8530331d6faf-1.servers.server1]
+      url = "h2c://localhost:8072"
+

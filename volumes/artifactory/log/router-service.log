@@ -1,0 +1,68 @@
+2022-02-23T19:38:20.423Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [bootstrap.go:76               ] [main                ] - Router (jfrou) service initialization started. Version: 7.32.1-1 Revision: 3a1cf040340ae124ef7022bb849760cf4593e48b PID: 3648 Home: /opt/jfrog/artifactory
+2022-02-23T19:38:20.432Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [bootstrap.go:79               ] [main                ] - JFrog Router IP: 192.168.224.2
+2022-02-23T19:38:25.489Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 5 seconds with 2m0s timeout
+2022-02-23T19:38:30.526Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 10 seconds with 2m0s timeout
+2022-02-23T19:38:35.541Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 15 seconds with 2m0s timeout
+2022-02-23T19:38:40.560Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 20 seconds with 2m0s timeout
+2022-02-23T19:38:45.614Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 25 seconds with 2m0s timeout
+2022-02-23T19:38:50.625Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 30 seconds with 2m0s timeout
+2022-02-23T19:38:55.648Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 35 seconds with 2m0s timeout
+2022-02-23T19:39:00.678Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 40 seconds with 2m0s timeout
+2022-02-23T19:39:05.687Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 45 seconds with 2m0s timeout
+2022-02-23T19:39:10.695Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 50 seconds with 2m0s timeout
+2022-02-23T19:39:15.699Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 55 seconds with 2m0s timeout
+2022-02-23T19:39:20.706Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 60 seconds with 2m0s timeout
+2022-02-23T19:39:25.711Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 65 seconds with 2m0s timeout
+2022-02-23T19:39:30.716Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 70 seconds with 2m0s timeout
+2022-02-23T19:39:35.720Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 75 seconds with 2m0s timeout
+2022-02-23T19:39:40.724Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:163          ] [main                ] - Master key is missing. Pending for 80 seconds with 2m0s timeout
+2022-02-23T19:39:45.729Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:177          ] [main                ] - Cluster join: Join key is missing. Pending for 85 seconds with 2m0s timeout
+2022-02-23T19:39:50.736Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:177          ] [main                ] - Cluster join: Join key is missing. Pending for 90 seconds with 2m0s timeout
+2022-02-23T19:39:55.740Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:177          ] [main                ] - Cluster join: Join key is missing. Pending for 95 seconds with 2m0s timeout
+2022-02-23T19:40:00.744Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:177          ] [main                ] - Cluster join: Join key is missing. Pending for 100 seconds with 2m0s timeout
+2022-02-23T19:40:05.750Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [security_keys.go:177          ] [main                ] - Cluster join: Join key is missing. Pending for 105 seconds with 2m0s timeout
+2022-02-23T19:40:07.759Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [bootstrap.go:192              ] [main                ] - System configuration encryption report:
+shared.newrelic.licenseKey: does not exist in the config file
+shared.security.joinKeyFile: file '/opt/jfrog/artifactory/var/etc/security/join.key' - already encrypted
+2022-02-23T19:40:07.776Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [bootstrap.go:84               ] [main                ] - JFrog Router Service ID: jfrou@01fwm1j66h2wt0tkvwegmn28hg
+2022-02-23T19:40:07.779Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [bootstrap.go:85               ] [main                ] - JFrog Router Node ID: 8530331d6faf
+2022-02-23T19:40:07.905Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [http_client_holder.go:160     ] [main                ] - System cert pool contents were loaded as trusted CAs for TLS communication
+2022-02-23T19:40:08.432Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [config_holder.go:107          ] [main                ] - Configuration update detected
+2022-02-23T19:40:28.258Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [join_executor.go:116          ] [main                ] - Cluster join: Trying to rejoin the cluster
+2022-02-23T19:40:31.332Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [join_executor.go:205          ] [main                ] - Cluster join: Successfully joined the cluster
+2022-02-23T19:40:31.336Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [http_client_holder.go:160     ] [main                ] - System cert pool contents were loaded as trusted CAs for TLS communication
+2022-02-23T19:40:31.339Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [http_client_holder.go:180     ] [main                ] - Following certificates were successfully loaded as trusted CAs for TLS communication:
+[/opt/jfrog/artifactory/var/data/router/keys/trusted/access-root-ca.crt]
+2022-02-23T19:40:31.395Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [registry_handler.go:74        ] [main                ] - Persisted local services: []
+2022-02-23T19:40:31.434Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [local_topology.go:112         ] [main                ] - Required service types: [jfrt jfac jfmd jffe jfob jfint]
+2022-02-23T19:40:31.435Z [jfrou] [INFO ] [c5b30f328f4acf9 ] [main.go:47                    ] [main                ] - Router (jfrou) service initialization completed in 131.035 seconds. Listening on port: 8082
+2022-02-23T19:40:31.436Z [jfrou] [WARN ] [79b4e80226a22b2 ] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jfrt jfac jfmd jffe jfob jfint]
+2022-02-23T19:40:31.436Z [jfrou] [WARN ] [79b4e80226a22b2 ] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:40:36.452Z [jfrou] [WARN ] [34be2c55ac335a98] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jfrt jfac jfmd jffe jfob jfint]
+2022-02-23T19:40:36.454Z [jfrou] [WARN ] [34be2c55ac335a98] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:40:41.529Z [jfrou] [WARN ] [7a41b7dcf189d2e4] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jfrt jffe]
+2022-02-23T19:40:41.531Z [jfrou] [WARN ] [7a41b7dcf189d2e4] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:40:46.473Z [jfrou] [WARN ] [767b138e561faa0c] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jfrt jffe]
+2022-02-23T19:40:46.473Z [jfrou] [WARN ] [767b138e561faa0c] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:40:51.517Z [jfrou] [WARN ] [576914442e4399cc] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jfrt jffe]
+2022-02-23T19:40:51.521Z [jfrou] [WARN ] [576914442e4399cc] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:40:56.485Z [jfrou] [WARN ] [1e3dc0312f4bb9d6] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jfrt jffe]
+2022-02-23T19:40:56.486Z [jfrou] [WARN ] [1e3dc0312f4bb9d6] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:41:01.497Z [jfrou] [WARN ] [3ad3179bdf722f24] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jffe]
+2022-02-23T19:41:01.498Z [jfrou] [WARN ] [3ad3179bdf722f24] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:41:06.512Z [jfrou] [WARN ] [19a273c4269e86c8] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jffe]
+2022-02-23T19:41:06.512Z [jfrou] [WARN ] [19a273c4269e86c8] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:41:11.476Z [jfrou] [WARN ] [e89503cf990ebe7 ] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jffe]
+2022-02-23T19:41:11.476Z [jfrou] [WARN ] [e89503cf990ebe7 ] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:41:16.480Z [jfrou] [WARN ] [2063c7824fb1ef78] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jffe]
+2022-02-23T19:41:16.480Z [jfrou] [WARN ] [2063c7824fb1ef78] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:41:21.489Z [jfrou] [WARN ] [19c6fa6808108cc0] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jffe]
+2022-02-23T19:41:21.489Z [jfrou] [WARN ] [19c6fa6808108cc0] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:41:26.476Z [jfrou] [WARN ] [3845852e0ba832ce] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jffe]
+2022-02-23T19:41:26.477Z [jfrou] [WARN ] [3845852e0ba832ce] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:41:32.096Z [jfrou] [WARN ] [27733c91e411aeb ] [local_topology_helper.go:53   ] [main                ] - Missing required services: [jffe]
+2022-02-23T19:41:32.096Z [jfrou] [WARN ] [27733c91e411aeb ] [local_topology.go:270         ] [main                ] - Readiness test failed with the following error: "required node services are missing or unhealthy"
+2022-02-23T19:41:36.530Z [jfrou] [INFO ] [5afe40af1d8de7cb] [local_topology.go:284         ] [main                ] - 
+################################################################
+###   All services started successfully in 196.130 seconds   ###
+################################################################

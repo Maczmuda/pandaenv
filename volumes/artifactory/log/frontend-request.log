@@ -1,0 +1,284 @@
+2022-02-23T19:50:16.456Z|11827b5af785d9c4|127.0.0.1|anonymous|GET|/api/v1/distribution/webapp/js/app.js|304|-|-|227.622|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:16.978Z|6f12fbecf0a83b68|127.0.0.1|anonymous|GET|/api/v1/ui/auth/screen/footer|200|243|-|350.984|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:17.606Z|52e90c13ff692961|127.0.0.1|anonymous|GET|/api/v1/ui/auth/current|200|510|-|457.889|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:17.755Z|7275d91ade92667 |127.0.0.1|anonymous|POST|/api/v1/ui/auth/loginRelatedData|200|45|17|71.911|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:18.045Z|713d64da88b541b3|127.0.0.1|anonymous|POST|/api/v1/ui/auth/logout|200|0|0|85.385|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:19.558Z|12ede503b4afab69|127.0.0.1|anonymous|GET|/api/v1/ui/auth/screen/footer|200|243|-|132.100|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:19.658Z|1869eab85896f449|127.0.0.1|anonymous|GET|/api/v1/ui/auth/current|200|510|-|211.188|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:21.869Z|110214bef46f929d|127.0.0.1|anonymous|POST|/api/v1/ui/auth/loginRelatedData|200|45|17|56.246|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:22.089Z|2832703311aa4ed7|127.0.0.1|anonymous|GET|/api/v1/ui/oauth2/loginRequestPlatform|404|74|-|250.969|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:25.864Z|712c43013af51204|127.0.0.1|anonymous|POST|/api/v1/ui/auth/login?_spring_security_remember_me=false|401|592|57|459.599|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:32.730Z|61642496e0476854|127.0.0.1|anonymous|POST|/api/v1/ui/auth/login?_spring_security_remember_me=false|401|592|57|327.472|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:37.290Z|3c6146eadb00a3a1|127.0.0.1|anonymous|POST|/api/v1/ui/auth/login?_spring_security_remember_me=false|200|426|53|1032.874|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:37.565Z|5e72b81dfe190a49|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|12.049|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:37.729Z|2f4292046801f881|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/footer|200|915|-|237.108|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:38.054Z|2c182daa2ef65885|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/footer|200|915|-|85.312|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:38.272Z|42b5136d92181c0c|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|8.429|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:38.385Z|43aac7408c397af3|127.0.0.1|admin|GET|/api/v1/ui/auth/current|200|482|-|144.000|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:38.541Z|7f455a8362411f41|127.0.0.1|anonymous|POST|/api/v1/ui/auth/loginRelatedData|200|45|17|31.898|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:38.606Z|45125d33879cab6b|127.0.0.1|admin|GET|/api/v1/system/status/nodes|200|675|-|48.439|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:38.759Z|11a453a6a8cf51f1|127.0.0.1|admin|GET|/api/v1/system/featuresConfig|200|23|-|43.952|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:38.911Z|67142443baa3b966|127.0.0.1|admin|GET|/api/v1/projects|200|261|-|99.308|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:39.014Z|7d3ad09ed5b73291|127.0.0.1|admin|GET|/api/v1/access/environments|200|14|-|12.119|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:39.223Z|16d298d0474037a3|127.0.0.1|admin|GET|/api/v1/ui/artifactsearch/pkg/availablePackages|200|-|-|175.611|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:39.465Z|52f3db8bdf28ed29|127.0.0.1|admin|GET|/api/v1/ui/repodata?packageSearch=true|200|20|-|126.612|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:39.827Z|ab9ae0d5d3daf8d |127.0.0.1|admin|GET|/api/v1/system/onboarding|200|235|-|338.587|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:54.103Z|642505af305b3a65|127.0.0.1|admin|GET|/api/v1/ui/home/widget/artifactCount|200|69|-|280.588|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:54.513Z|5f6f2f4de5f9fe12|127.0.0.1|admin|POST|/api/v1/ui/treebrowser?compacted=true|200|832|168|716.329|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:54.696Z|3ad30047a3a3076 |127.0.0.1|admin|GET|/api/v1/ui/artifactsearch/pkg/availablePackages|200|-|-|64.260|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:54.725Z|7c5a2e3fe9f36b2a|127.0.0.1|admin|GET|/api/v1/ui/repodata?search=true|200|261|-|67.121|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:54.755Z|22a197a0af9cc3d6|127.0.0.1|admin|GET|/api/v1/ui/repodata?deploy=true|200|407|-|110.045|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:54.916Z|bf1d7d19be3634f |127.0.0.1|admin|POST|/api/v1/ui/treebrowser/tabsAndActions|200|465|118|86.413|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:55.186Z|7a2cf2b1a131a449|127.0.0.1|admin|GET|/api/v1/ui/repodata?packageSearch=true|200|20|-|41.249|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:55.212Z|17f81fa8347a1541|127.0.0.1|admin|POST|/api/v1/ui/artifactactions/download|200|72|46|96.495|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:55.288Z|7610c5159137da58|127.0.0.1|admin|GET|/api/v1/ui/artifactsearch/property/keyvalue|200|2|-|65.794|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:55.793Z|58f62993c5233bf0|127.0.0.1|admin|POST|/api/v1/ui/artifactgeneral|200|328|66|276.028|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:55.887Z|20c5c88c61dc0ea9|127.0.0.1|admin|GET|/api/v1/ui/auth/canAnnotate?type=repository&repoKey=artifactory-build-info&path=|200|4|-|60.842|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:56.056Z|1ec3b91cb7d4bc1d|127.0.0.1|admin|POST|/api/v1/ui/artifactgeneral/artifactsCount|200|56|76|129.606|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:50:57.916Z|7f5454cafe1e9452|127.0.0.1|admin|POST|/api/v1/ui/treebrowser?compacted=false|200|18|140|109.202|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:51:03.744Z|39bf565cb86584bd|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|236.577|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:51:03.798Z|329f622ded59094b|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.779|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:51:03.884Z|254fd96ff52a5ca6|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|72.420|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:51:28.513Z|799fe5c8059e9689|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|89.405|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:51:28.538Z|5787b4e2d5a0a5c |127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.822|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:51:28.586Z|55c302d2a2c5a1e7|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|34.008|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:51:53.527Z|4d9f640d8fb6e9da|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|113.821|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:51:53.585Z|68a31c870dff7dd8|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|7.887|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:51:53.648Z|59ed47b03956c29d|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|50.006|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:52:18.614Z|2fe111016cbb18a7|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|194.884|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:52:18.638Z|1ef998c4aad3a700|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.732|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:52:18.667Z|993299359f1bd3b |127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|20.902|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:52:43.464Z|273040898e4c3399|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|67.875|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:52:43.492Z|25314f34a9b0484e|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.855|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:52:43.520Z|475b6d6fdc52d07f|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|18.019|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:53:08.477Z|62d5cfbe6adeb460|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|86.325|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:53:08.498Z|5935aeff2fc87771|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.618|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:53:08.529Z|77afe7010ed47c2f|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|21.817|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:53:33.552Z|1cdb45032d57cc7d|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|177.065|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:53:33.581Z|6167975e0e950b49|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|7.253|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:53:33.609Z|377df3de1c7b8823|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|19.781|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:53:58.435Z|74eb6517bfaa1367|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|77.461|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:53:58.463Z|63557866c9fe41a7|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.512|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:53:58.490Z|1cc2c98bb3360270|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|20.149|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:54:23.446Z|761d59d5699b1401|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|87.017|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:54:23.472Z|7b85ff5f50ee8934|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.558|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:54:23.524Z|14bfb2d41525ca69|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|42.749|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:54:48.514Z|5612ffa21393bcb1|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|169.527|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:54:48.536Z|102ec095300505c |127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.352|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:54:48.568Z|319dbfbfcae7c6b |127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|22.973|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:55:13.384Z|6020828e6b7d965f|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|53.486|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:55:13.410Z|2720e7856030fdb0|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.888|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:55:13.449Z|3f4c2e75c096ba83|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|25.811|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:55:38.393Z|f891ad2823e9811 |127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|80.329|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:55:38.416Z|3aaab9a31e934cf4|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.512|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:55:38.443Z|6ed35a633b392805|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|20.504|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:56:22.482Z|37ed371a5ecab078|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|192.282|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:56:22.505Z|1d8f27edcb56b919|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.866|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:56:22.535Z|7b4d9c0507fd5264|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|19.574|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:57:22.329Z|66f938d88104aab |127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|83.259|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:57:22.365Z|55c1c3db32f382ff|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|7.732|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:57:22.402Z|14b2f1d93f45ea84|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|24.128|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:58:22.403Z|4ea2877b02203307|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|168.731|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:58:22.434Z|23796dcf291c8fb0|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.148|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:58:22.491Z|e51419296056f49 |127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|48.721|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:59:22.275Z|4255b03757e2d023|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|74.045|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:59:22.295Z|43399856bd8c8338|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.496|Edge|98.0.1108.55|Windows|10
+2022-02-23T19:59:22.324Z|4d3845f4093dc517|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|20.510|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:00:22.351Z|2e1cff909da5bda3|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|181.141|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:00:22.379Z|6ef23decc5a790f1|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|5.482|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:00:22.406Z|6c1d92784e56f846|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|17.634|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:01:22.247Z|73314680bb38a18e|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|90.487|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:01:22.271Z|46d1124f96166baf|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.475|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:01:22.308Z|1dd5565c0f3ba069|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|30.484|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:02:22.315Z|20e8695d0f9c583f|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|158.621|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:02:22.339Z|7892794e01cd319d|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.285|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:02:22.373Z|359968530774c8bd|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|29.319|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:03:22.341Z|7afa440c7cc04816|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|161.629|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:03:22.362Z|35779d2068203a59|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.251|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:03:22.398Z|7d6b486187576751|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|28.843|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:04:22.395Z|457f496c44bab946|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|197.192|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:04:22.424Z|32a50fd9ca1d56b5|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.335|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:04:22.474Z|622682ecc68c0c3b|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|32.624|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:05:22.255Z|5c0a9a63c8eb048 |127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|75.523|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:05:22.286Z|4407d93d1a619c43|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.435|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:05:22.325Z|35ebd094f567afa6|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|19.962|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:06:22.313Z|25ce2943d0e133de|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|172.649|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:06:22.339Z|43570e3b47a5b17b|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.667|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:06:22.359Z|70235ea9c22dd1a5|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|14.434|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:07:22.180Z|7ac4f9fee95c0345|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|70.363|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:07:22.210Z|79ba378ec52f9f2a|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.596|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:07:22.250Z|4824c10d9e0fb7f1|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|32.311|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:08:22.250Z|7352d2d759b8926e|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|174.120|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:08:22.279Z|4a74f0a3da3bc5ad|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.623|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:08:22.318Z|6a576d9655a94570|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|31.548|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:09:22.086Z|6c11b9bf4ea33cb8|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|50.028|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:09:22.112Z|1574e1e1f6404c91|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.492|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:09:22.136Z|1a2d029a2fbe08ca|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|16.044|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:10:22.413Z|2c997fe61490fbe2|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|389.808|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:10:22.441Z|34df00f6612a25c8|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.636|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:10:22.468Z|6fc566cd48589c1 |127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|18.744|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:11:22.199Z|68b8f7056677e604|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|183.474|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:11:22.218Z|391d738ca602c68c|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.922|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:11:22.276Z|68ac3dff7f0d040f|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|50.546|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:12:22.023Z|47648966d39e29ed|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|59.598|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:12:22.074Z|407687fa15483505|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|8.766|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:12:22.102Z|4f864156347d4b7e|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|16.080|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:13:22.119Z|29526860fd2adb97|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|192.112|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:13:22.143Z|2253dd24764f5a88|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|5.438|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:13:22.174Z|18f1e07bd4d03c73|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|23.368|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:14:21.957Z|1ba36a676461c20d|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|58.114|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:14:21.976Z|4446bdbd087bc3cd|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.542|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:14:22.066Z|15a015cfe96d12d |127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|80.023|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:15:22.026Z|23ff3ba20fa96481|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|148.306|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:15:22.065Z|67a11fd0ebe9b2f5|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.207|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:15:22.128Z|297a7986b3551983|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|52.097|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:16:21.921Z|71b7bac4ef2691f9|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|65.770|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:16:21.945Z|64b89632113b8b7 |127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.577|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:16:21.980Z|203a19fadaf273ea|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|28.283|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:17:22.006Z|98ff1dee965500f |127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|197.555|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:17:22.039Z|530fa08c7a7b354 |127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.673|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:17:22.092Z|67ae69c3e0c246a5|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|45.221|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:18:21.982Z|6143468cf90f44bf|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|154.590|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:18:22.004Z|f5143322974b1a3 |127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.464|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:18:22.029Z|585c43936682cb43|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|19.153|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:19:22.021Z|2d9ad65c25dc9d4e|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|163.670|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:19:22.045Z|29a020ef1495ef55|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.453|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:19:22.076Z|5aeca27c83035675|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|16.428|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:20:22.062Z|47b17221d7f82496|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|183.701|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:20:22.081Z|1af3d19d7bf2cc01|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.903|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:20:22.101Z|250929e742d43c8e|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|13.782|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:21:21.929Z|2f18d72e93c5eb1f|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|81.576|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:21:21.960Z|3cd11d162dfba193|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|4.090|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:21:23.201Z|246d4ff257aee7ec|127.0.0.1|anonymous|GET|/api/v1/ui/storagesummary/projects|401|3|-|1233.490|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:21:23.399Z|1124589cfdf582f5|127.0.0.1|anonymous|POST|/api/v1/ui/auth/logout|200|0|0|21.080|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:21:24.257Z|717f59f8786f33e1|127.0.0.1|anonymous|GET|/api/v1/ui/auth/screen/footer|200|243|-|155.995|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:21:24.304Z|57815e7aaeb3ef20|127.0.0.1|anonymous|GET|/api/v1/ui/auth/current|200|510|-|183.606|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:21:24.594Z|4cd1560b0a23301d|127.0.0.1|anonymous|GET|/api/v1/ui/oauth2/loginRequestPlatform|404|74|-|19.600|Edge|98.0.1108.55|Windows|10
+2022-02-23T20:21:24.597Z|39adf1736e5da874|127.0.0.1|anonymous|POST|/api/v1/ui/auth/loginRelatedData|200|45|17|31.416|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:22.692Z|67d6f30160d274f4|127.0.0.1|anonymous|POST|/api/v1/ui/auth/login?_spring_security_remember_me=false|401|592|57|166.548|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:26.301Z|4e91be3247a4089a|127.0.0.1|anonymous|POST|/api/v1/ui/auth/login?_spring_security_remember_me=false|200|426|53|279.918|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:26.711Z|5dd55f5752413398|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|26.692|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:26.801Z|531d76b313fc7c05|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/footer|200|915|-|133.650|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:26.891Z|2d108f0a7b8b8865|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/footer|200|915|-|35.906|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:27.057Z|33313bb189e05a56|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.759|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:27.376Z|39c5889586396c3a|127.0.0.1|admin|GET|/api/v1/ui/auth/current|200|482|-|52.986|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:27.589Z|67aa2a331e9330  |127.0.0.1|anonymous|POST|/api/v1/ui/auth/loginRelatedData|200|45|17|58.230|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:27.625Z|7917efe645cdd481|127.0.0.1|admin|GET|/api/v1/system/status/nodes|200|675|-|22.544|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:27.844Z|4d286258b56f1f2e|127.0.0.1|admin|GET|/api/v1/system/featuresConfig|200|23|-|31.966|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:27.947Z|138e39bfbb52a747|127.0.0.1|admin|GET|/api/v1/projects|200|261|-|85.419|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:28.095Z|428b4796d2f97e17|127.0.0.1|admin|GET|/api/v1/access/environments|200|14|-|4.597|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:28.142Z|1e90ad0d579f632a|127.0.0.1|admin|GET|/api/v1/ui/artifactsearch/pkg/availablePackages|200|-|-|21.944|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:28.240Z|768d14c41ddbba7e|127.0.0.1|admin|GET|/api/v1/ui/repodata?packageSearch=true|200|20|-|17.533|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:28.412Z|282d4a55cf44478d|127.0.0.1|admin|GET|/api/v1/system/onboarding|200|235|-|161.897|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:34.680Z|47761cce8e0ede94|127.0.0.1|admin|POST|/api/v1/ui/treebrowser?compacted=true|200|832|168|31.982|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:34.690Z|2c64f1b736d91fc |127.0.0.1|admin|GET|/api/v1/ui/home/widget/artifactCount|200|69|-|23.608|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:34.906Z|177a3702217af7b2|127.0.0.1|admin|GET|/api/v1/ui/repodata?search=true|200|261|-|40.655|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:34.914Z|244289a921912d3c|127.0.0.1|admin|GET|/api/v1/ui/repodata?deploy=true|200|407|-|63.599|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:34.919Z|52d8ab2df07e3056|127.0.0.1|admin|GET|/api/v1/ui/artifactsearch/pkg/availablePackages|200|-|-|79.080|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:34.987Z|14704d51d1aeb03c|127.0.0.1|admin|POST|/api/v1/ui/treebrowser/tabsAndActions|200|465|118|23.885|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:35.036Z|6823161c940dc47b|127.0.0.1|admin|GET|/api/v1/ui/repodata?packageSearch=true|200|20|-|27.334|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:35.124Z|68191bfadefe311 |127.0.0.1|admin|POST|/api/v1/ui/artifactactions/download|200|72|46|23.333|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:35.152Z|530c26248857a97e|127.0.0.1|admin|GET|/api/v1/ui/artifactsearch/property/keyvalue|200|2|-|17.900|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:35.339Z|74fe82d6beda6e73|127.0.0.1|admin|POST|/api/v1/ui/artifactgeneral|200|328|66|24.975|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:35.370Z|416162cad7c7c760|127.0.0.1|admin|GET|/api/v1/ui/auth/canAnnotate?type=repository&repoKey=artifactory-build-info&path=|200|4|-|12.511|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:35.394Z|554273ed5b1b612 |127.0.0.1|admin|POST|/api/v1/ui/artifactgeneral/artifactsCount|200|56|76|16.222|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:36.980Z|55c7f2f28996d62d|127.0.0.1|admin|POST|/api/v1/ui/treebrowser?compacted=false|200|18|140|20.504|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:53.150Z|16faca9f175b599f|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|188.394|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:53.170Z|4ac1c30ffe5e54a1|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.607|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:30:53.225Z|40058807a77597ae|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|12.052|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:31:17.974Z|21d3aa1827bb51ec|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|28.632|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:31:18.002Z|3674ee4c8265a608|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.762|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:31:18.022Z|550c1d9c4f8356bd|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|12.898|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:31:43.156Z|5c0816ac31951f17|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|53.681|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:31:43.174Z|7f3e194384e68b73|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|4.247|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:31:43.202Z|2b1206c4968662c5|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|19.410|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:32:08.036Z|4489a257580c276c|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|120.586|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:32:08.061Z|7a787b354252a49c|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.977|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:32:08.094Z|51d588e03b84afe |127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|23.510|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:32:32.957Z|5e3e6720520dcd3c|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|49.773|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:32:32.995Z|bd16ba922721979 |127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|4.165|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:32:33.037Z|c107742e2c856bd |127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|20.660|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:32:58.008Z|1870536c8532622e|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|97.170|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:32:58.140Z|502f9c8b69acb7e4|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|7.750|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:32:58.342Z|2a5ad00946663efd|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|28.306|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:33:23.129Z|6d1fe3fc87cb09ed|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|215.380|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:33:23.156Z|3b3692a3d9ae6487|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.121|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:33:23.185Z|4bd9944f8fd82d7 |127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|21.235|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:33:48.018Z|592b7e0525663ccc|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|127.131|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:33:48.057Z|3d6b64d121ea9421|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|4.549|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:33:48.093Z|2bb95e81d06a036c|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|24.120|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:34:12.921Z|63c9d9ac2ee83882|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|61.564|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:34:12.945Z|34d89efc9fd4579b|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.064|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:34:12.975Z|36a2bd9bbef886c7|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|22.481|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:34:38.073Z|2e02e04944bebc48|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|217.229|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:34:38.093Z|3a07d43831611597|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.312|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:34:38.114Z|5568aa1717990877|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|14.664|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:35:02.858Z|12b5a035912ba9a2|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|29.489|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:35:02.883Z|616f22712498804e|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|7.059|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:35:02.907Z|5b81f2bc47b78c9a|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|14.752|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:35:27.977Z|4b6a94a2653dbd4 |127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|137.799|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:35:28.017Z|42c6eca76aeee6d0|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.837|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:35:28.043Z|64b8eccc20c917e |127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|14.168|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:36:01.043Z|30ce2bfd4a6fe869|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|240.674|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:36:01.065Z|329f12b97a79ef31|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.565|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:36:01.130Z|580ac32a7f8290ed|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|27.806|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:37:00.836Z|7cdf28c1c4e2508c|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|62.917|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:37:00.876Z|4846264d138b7975|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.565|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:37:00.927Z|21e68ea0509573e5|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|24.791|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:38:00.959Z|1e53b610fdaee2c5|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|195.827|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:38:00.980Z|407beface535825d|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.454|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:38:01.012Z|1d149026c8ca4473|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|23.598|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:39:01.037Z|2cbfc8d5923e8ad4|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|209.173|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:39:01.070Z|1eb6cc81940f5a0a|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.227|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:39:01.122Z|38016827ca2f72bb|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|31.959|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:40:00.892Z|68b2506a09fe0ad2|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|72.621|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:40:00.966Z|7653270883d837b7|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.290|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:40:00.993Z|a600a9716c201cf |127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|17.618|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:41:01.092Z|7003b5c9736b5b90|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|240.924|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:41:01.115Z|187348baddeaedf6|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.238|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:41:01.142Z|46e19381758fd8a6|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|19.402|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:42:01.086Z|2fd9db4843913066|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|203.473|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:42:01.107Z|78a21f09acfb0c47|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.510|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:42:01.140Z|3d4bd3c4e95d0b13|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|18.134|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:43:00.932Z|3f0af4f0f4487571|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|37.879|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:43:00.957Z|142e3ec06c793374|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|8.662|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:43:01.000Z|189c8d8021ba3b5f|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|34.022|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:44:01.154Z|20555b3796a82bbf|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|193.980|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:44:01.211Z|5b1d8a69b26b1e0d|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.734|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:44:01.254Z|739f490513bbd7b5|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|31.670|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:45:01.011Z|4607b1d4deb8eb99|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|60.884|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:45:01.044Z|33dd2fbe6bef8f5 |127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|4.307|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:45:01.085Z|518a46c77f67db51|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|18.721|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:46:01.109Z|7541be168120770d|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|164.210|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:46:01.134Z|134e246abb322a4e|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.333|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:46:01.162Z|6b7fcd2111e0c209|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|18.704|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:47:00.950Z|1fcd47e5647a7870|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|53.341|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:47:00.989Z|8d6a3627b36da94 |127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.808|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:47:01.032Z|44735d444cda5ff9|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|29.721|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:48:01.056Z|3907b385c32254e8|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|139.754|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:48:01.089Z|663f4ae55a24fca3|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.058|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:48:01.161Z|740886f0b172297f|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|22.114|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:49:00.892Z|e64ff70cbf11098 |127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|55.288|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:49:00.917Z|34b7075876a62fea|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.972|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:49:00.943Z|7e725651dcef3c7b|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|17.839|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:50:01.019Z|15bd9b8541ec6bbc|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|196.821|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:50:01.094Z|460f1673aec35679|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|4.627|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:50:01.134Z|1aa9eb29eef0df21|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|23.964|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:51:00.869Z|7fca512a8be9c2ee|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|84.762|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:51:00.893Z|5560a19369446f1f|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|4.014|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:51:00.957Z|612dd84a1bf958dc|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|32.466|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:52:01.022Z|ad3d248a62f41a8 |127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|217.692|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:52:01.066Z|a148a225d72090d |127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|3.778|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:52:01.105Z|7edaa32e30a489f2|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|29.166|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:53:00.808Z|15369e2d340310e |127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|46.197|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:53:00.837Z|795d6ba8c4357afe|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|9.843|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:53:00.868Z|240512c44099cf8 |127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|16.886|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:54:01.011Z|e19522597c07e5a |127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|177.867|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:54:01.028Z|7a064bfc27ae351c|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.315|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:54:01.060Z|3b3357840466fe7c|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|11.793|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:55:00.898Z|6c2a762d23e1e63f|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|49.630|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:55:00.934Z|561611be41d36cb3|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|4.076|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:55:00.974Z|7d84d3bfa739bbef|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|30.009|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:56:00.985Z|1becfaec163d574a|127.0.0.1|admin|GET|/api/v1/ui/auth/screen/globalState|200|503|-|142.758|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:56:01.023Z|39d9b32f7198a4d1|127.0.0.1|anonymous|GET|/api/v1/system/version|200|20|-|2.205|Edge|98.0.1108.55|Windows|10
+2022-02-27T21:56:01.065Z|7bfc11a274addcf7|127.0.0.1|admin|GET|/api/v1/ui/storagesummary/projects|200|3|-|30.353|Edge|98.0.1108.55|Windows|10
